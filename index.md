@@ -57,6 +57,14 @@ While using Our Service, We may ask You to provide Us with certain personally id
 
     Location (Geo Location) for for reporting some disaster form actual place of user
 
+    To provide a seamless experience, we use OAuth authentication to allow users to log in using their existing accounts from third-party providers such as Google, Apple.
+
+    When you log in using OAuth authentication, we may collect and store the following information:
+
+    Basic Profile Information**: Such as your full name, email address, and profile picture, as provided by the third-party authentication provider.
+    Authentication Tokens**: Used to verify your identity and maintain your session.
+
+
 Usage Data
 
 Usage Data is collected automatically when using the Service.
