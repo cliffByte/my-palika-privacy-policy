@@ -64,6 +64,11 @@ While using Our Service, We may ask You to provide Us with certain personally id
     Basic Profile Information**: Such as your full name, email address, and profile picture, as provided by the third-party authentication provider.
     Authentication Tokens**: Used to verify your identity and maintain your session.
 
+    ## Domain Verification
+
+    To enhance our services and ensure the security of our users, we have verified our domain(s) with Google Search Console. This verification process helps us maintain the integrity of our application and protect our users' data. We are committed to complying with all necessary verification requirements to provide a safe and reliable user experience.
+
+
 
 Usage Data
 
