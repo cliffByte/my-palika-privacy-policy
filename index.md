@@ -1,7 +1,7 @@
 Privacy Policy for My Palika
 Privacy Policy
 
-Last updated: March 21, 2024
+Last updated: Sep 1, 2024
 
 Company views protection of User(s) privacy as a very important principle. Company stores and processes User(s) information which defined under the Information Technology Act, 2000, if any, on computers, devices that may be protected by physical as well as reasonable technological security measures and procedures in accordance with Information Technology Act 2000 and Rules there under.
 
@@ -57,17 +57,14 @@ While using Our Service, We may ask You to provide Us with certain personally id
 
     Location (Geo Location) for for reporting some disaster form actual place of user
 
-    To provide a seamless experience, we use OAuth authentication to allow users to log in using their existing accounts from third-party providers such as Google, Apple.
+Third Party Services
 
-    When you log in using OAuth authentication, we may collect and store the following information:
-
-    Basic Profile Information**: Such as your full name, email address, and profile picture, as provided by the third-party authentication provider.
-    Authentication Tokens**: Used to verify your identity and maintain your session.
-
-    ## Domain Verification
-
-    To enhance our services and ensure the security of our users, we have verified our domain(s) with Google Search Console. This verification process helps us maintain the integrity of our application and protect our users' data. We are committed to complying with all necessary verification requirements to provide a safe and reliable user experience.
-
+    Google and Apple Login: Identify that your app uses Google Sign-In and Apple Sign-In for user authentication.
+    Please note that the Application utilizes third-party services that have their own Privacy Policy about handling data. Below are the links to the Privacy Policy of the third-party service providers used by the Application
+*   [Google Play Services](https://www.google.com/policies/privacy/)
+*   [Google Analytics for Firebase](https://firebase.google.com/support/privacy)
+*   [Firebase Crashlytics](https://firebase.google.com/support/privacy/)
+*   [Apple Login](https://www.apple.com/legal/privacy/data/en/sign-in-with-apple/)
 
 
 Usage Data
@@ -160,6 +157,7 @@ Information Care  may disclose Your Personal Data in the good faith belief that 
     Protect against legal liability
 
 Security of Your Personal Data
+
 
 The security of Your Personal Data is important to Us, but remember that no method of transmission over the Internet, or method of electronic storage is 100% secure. While We strive to use commercially acceptable means to protect Your Personal Data, We cannot guarantee its absolute security.
 Children's Privacy
